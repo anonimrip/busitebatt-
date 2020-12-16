@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Eren Rip</title>
+   </head>
+   <body>
+      <h1>Anonim Rip Kimdir ?</h1>
+      <p>Antalyada yaşıyan bir yazılımcı dır aşşağıda ilgilendiği alanları göre bilirsiniz</p>
+       <h3>İlgi alanları </h3>
+	  <ul>
+	    <li><a herf="#">Grafik Tasarım </a></li> <!-- liste  -->
+		<li><a herf="#">Graffıti </a></li> <!-- # İşareti ile Bağlantı nın boş olduğunu belirtiyoz -->
+		<li><a herf="#">Yazılım </a></li> <!-- Detaylı Anlatım kitabta -->
+	  </ul>
+	  <!-- Devamı Gelecek -->
+	  <p>Git hub üzerinden bu form aracılığıyla vereceğim linkler anlatacağım konular yaptığım programlar la sizlere yardım edecem  </p>
+   </body>
+</html>
