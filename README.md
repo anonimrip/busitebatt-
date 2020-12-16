@@ -2,6 +2,9 @@
   <head>
     <meta charset="utf-8">
     <title>Anonim Rip</title>
+	<link rel="icon" href="C:\Users\Hesab Silme Hesabı\Desktop\website\favicon.ico"" type="image/x-icon" />
+
+	
    </head>
    <body>
       <h1>Anonim Rip Kimdir ?</h1>
