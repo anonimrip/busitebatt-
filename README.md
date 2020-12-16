@@ -14,5 +14,10 @@
 	  </ul>
 	  <!-- Devamı Gelecek -->
 	  <p>Git hub üzerinden bu form aracılığıyla vereceğim linkler anlatacağım konular yaptığım programlar la sizlere yardım edecem  </p>
-   </body>
+      <p></p>
+	  <li><a href="https://www.instagram.com/errenrip/" target="_blank">Instagram </a></li>
+      <li><a href="https://www.youtube.com/channel/UC45QlquDizup2ILKLZKdPaw?view_as=subscriber" target="_blank">YouTube</a></li>
+  </body>
 </html>
+
+
